@@ -1,0 +1,147 @@
+body {
+  font-family: "Montserrat";
+}
+
+#title {
+  background-color: #A0C334;
+  color: #f7f7f7;
+}
+
+.container-fluid{
+  padding: 3% 10%;
+  padding-bottom: 10%;
+}
+
+.logo {
+  width: 30%;
+}
+
+.wallet {
+    position: relative;
+    width: 100%;
+    background-size: contain;
+}
+
+h1 {
+  font-family: "Montserrat-Black" sans-serif;
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: "Montserrat-Bold";
+  font-size: 2rem;
+  line-height: 1.5rem;
+}
+
+p {
+  font-family: "Montserrat-Black" sans-serif;
+  font-size: 1rem;
+}
+
+/* Navigation Bar */
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light"sans-serif;
+}
+
+/* Download Button */
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Section II */
+
+#features {
+  background-color: #f7f7f7;
+  color: #5D5D5D;
+  padding: 7% 15%;
+}
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.titleone {
+  text-align: center;
+  padding-bottom: 5%;
+}
+
+.Redistribute {
+  width: 50%;
+  margin-bottom: 1rem;
+}
+
+.members {
+  width: 50%;
+  margin-bottom: 2.5rem;
+}
+
+/* appphotos */
+
+#appphotos {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #A0C334;
+  color: #f7f7f7;
+}
+
+.titletwo {
+  padding-bottom: 10%;
+}
+
+.earntokens {
+  width: 75%;
+}
+
+/* howtoearn */
+
+#howtoearn {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #f7f7f7;
+    color: #5D5D5D;
+}
+
+#whatwedo {
+padding: 7% 15%;
+text-align: center;
+background-color: #A0C334;
+color: #f7f7f7;
+}
+
+.titlethree {
+  padding-bottom: 5%;
+  text-align: center;
+}
+
+#cta {
+padding: 7% 15%;
+text-align: center;
+background-color: #f7f7f7;
+color: #5D5D5D;
+}
+
+#footer {
+  padding: 7% 15%;
+  padding-top: 0;
+  text-align: center;
+  background-color: #f7f7f7;
+  color: #5D5D5D;
+}
