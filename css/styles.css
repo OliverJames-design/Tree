@@ -31,7 +31,7 @@ h1 {
 h2 {
   font-family: "Montserrat-Bold";
   font-size: 2rem;
-  line-height: 1.5rem;
+  line-height: 1.5;
 }
 
 p {
@@ -144,4 +144,10 @@ color: #5D5D5D;
   text-align: center;
   background-color: #f7f7f7;
   color: #5D5D5D;
+}
+
+@media (max-width: 500px){
+    #title {
+      text-align: center;
+    }
 }
